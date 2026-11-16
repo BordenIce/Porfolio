@@ -47,9 +47,6 @@ cd Portfolio
 
 No installation or build tools required. To run a local server instead:
 
-bash
-python -m http.server 8000
-# then open http://localhost:8000
 🌐 Deployment
 
 The site is static, so it can be hosted for free on:
